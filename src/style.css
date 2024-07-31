@@ -16,6 +16,24 @@ body {
   border-radius: 20px;
   background-image: url("https://media.istockphoto.com/id/1847548352/photo/pink-blue-clouds-at-sunset-cloudy-air-flying-in-the-sky-landscape-sky-at-dawn-3d-render.jpg?s=1024x1024&w=is&k=20&c=5fBiH2S7Q7CRlhX1Apf9smzobYS6X3FN0lVYQzodMLg=");
 }
+.weather-app-temperature-container {
+  display: flex;
+}
+.weather-app-icon {
+  font-size: 44px;
+  margin-top: 22px;
+}
+.weather-app-temperature {
+  font-size: 88px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.weather-app-unit {
+  margin-top: 16px;
+  font-size: 28px;
+}
+
 .search-form-input {
   background-color: #f9f7fe;
   border: none;
