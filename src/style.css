@@ -1,14 +1,20 @@
 body {
-  background-color: #f9f7fe;
+  background: linear-gradient(
+    109.5deg,
+    rgb(13, 11, 136) 9.4%,
+    rgb(86, 255, 248) 78.4%
+  );
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 .weather-app {
   background-color: white;
   max-width: 600px;
+
   margin: 30px auto;
   padding: 30px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 20px;
+  background-image: url("https://media.istockphoto.com/id/1847548352/photo/pink-blue-clouds-at-sunset-cloudy-air-flying-in-the-sky-landscape-sky-at-dawn-3d-render.jpg?s=1024x1024&w=is&k=20&c=5fBiH2S7Q7CRlhX1Apf9smzobYS6X3FN0lVYQzodMLg=");
 }
 .search-form-input {
   background-color: #f9f7fe;
