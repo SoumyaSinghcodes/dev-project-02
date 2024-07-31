@@ -20,7 +20,8 @@ body {
   display: flex;
 }
 .weather-app-icon {
-  font-size: 44px;
+  width: 115px;
+  height: 115px;
   margin-top: 22px;
 }
 .weather-app-temperature {
